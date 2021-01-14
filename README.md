@@ -1,1 +1,1 @@
-# cryptalgo : Generated using the ginit script
+# cryptalgo : ginit made it!
